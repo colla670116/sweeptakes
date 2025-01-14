@@ -1,0 +1,23 @@
+.survey_button,.survey_button2,.name,.profile{cursor:pointer}#comment1,#comment2,#comment3,#comment4,#comment5,#comment6,#content2,#content3,#q2,#q3,#q4,#q5,#q6,#q7,#q8,#q9,#q10,#result1,#result2,#result3,#result4,.surveyQuestion{display:none}
+.survey_button,.survey_button2,.loading{text-align:center}.survey_button,.main-content{padding:10px;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px}
+.name,.result{font-weight:700}p.question{font-size:15px}.q_image{text-align: center;}.survey_button{border:2px solid #f0f0f0;color:#fff;padding:5px 0;margin:5px 0;box-shadow:0 1px 4px 0 rgba(0,0,0,.74)}
+.survey_button.bg-success,.survey_button.bg-danger{color:#fff}.main-content .result{margin:0;padding:5px 0 5px 25px}.survey_button2{background-color:red;font-size:20px;padding:10px;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;color:#fff;box-shadow:0 1px 4px 0 #000}
+.pwp_style .surveyQuestion:first-child {display: block;}
+.pwp_style{background-color: #f2f2f2;border-radius: 10px;}
+.pwp_style .survey_button.bq{
+    background-color: #fff;
+    color: #636b6f;
+    box-shadow: none;
+    border: 1px solid #636b6f;
+    font-size: 20px;
+    border-radius: 4px;
+    margin: 10px 0;
+    padding: 5px 0;
+    font-size: 20px;
+}
+.pwp_style .survey_button.bq:hover{
+    cursor: pointer;
+    border-color: #2ab27b;
+    background-color: #eeeeee;
+    color: #000;
+}
